@@ -1,7 +1,7 @@
 {
     "TODD": "Hi there!\nI’m the personal bot of Todd Arostegui, a Senior Logistics Manager from Orange County, CA.\n![Todd](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/2/000/1c5/085/12c0348.jpg)\nWant to learn about Todd? %[Where has Todd worked?](postback:where_has_todd_worked) %[Where did Todd go to school?](postback:where_did_todd_go_to_school) %[What are Todd's Skills?](postback:what_are_todds_skills)",
-    "HELP": "You can say: Where has Todd worked?, Where did Todd go to school?, What are Todd's Skills?"
-    "Where has Todd worked?":  "Todd worked for Ingram Book Distribution for 10 years (94-04).\nHe also spent a year with Roland DGA in Irvine, CA.\nHe is currently working as Sr Manager Of Supply Chain at Time Warner Cable (05-Present)."
+    "HELP": "You can say: Where has Todd worked?, Where did Todd go to school?, What are Todd's Skills?",
+    "Where has Todd worked?":  "Todd worked for Ingram Book Distribution for 10 years (94-04).\nHe also spent a year with Roland DGA in Irvine, CA.\nHe is currently working as Sr Manager Of Supply Chain at Time Warner Cable (05-Present).",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
